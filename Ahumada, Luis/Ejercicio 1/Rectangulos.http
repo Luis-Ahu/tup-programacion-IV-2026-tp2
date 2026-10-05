@@ -31,7 +31,7 @@ GET {{url}}/rectangulos/1
 
 
 
-### Eliminar rectángulo
+###Eliminar rectangulo
 DELETE {{url}}/rectangulos/1
 
 
